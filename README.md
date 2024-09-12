@@ -26,16 +26,32 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Tools of the Trade-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.coursera.org/account/accomplishments/verify/U8YX8A3QRPF5" target="_blank">
-    Security+ Certification
+    Tools of the Trade Certification
 </a>
+</div>
 
+<div>
+<a href="https://www.coursera.org/account/accomplishments/verify/NHR5KDSWM2JV" target="_blank">
+    Connect and Protect: Networks and Network Security
+</a>
+</div>
+
+<div>
+<a href="https://www.coursera.org/account/accomplishments/verify/5535ZK9MH4DX" target="_blank">
+    Play It Safe: Manage Security Risks
+</a>
+</div>
+
+<div>   
+<a href="https://www.coursera.org/account/accomplishments/verify/NHR5KDSWM2JV" target="_blank">
+    Foundations of Cybersecurity 
+</a>
 </div>
 
 ## Projects
